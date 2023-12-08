@@ -1,0 +1,13 @@
+body,html {
+    margin: 0;
+    font: bold 14px/1.4 'Open Sans', arial, sans-serif;
+    background: #000;
+    color: white;
+    overflow: auto
+  }
+  .mc {
+    color: white;
+    justify-content: center;
+    align-items: center;
+    margin: 2%;
+  }
