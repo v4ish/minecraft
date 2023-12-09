@@ -9,5 +9,9 @@ body,html {
     color: white;
     justify-content: center;
     align-items: center;
+    text-align: center;
     margin: 2%;
+    padding-left: 28%;
+    width: 40%;
+    font: bold 12px/1.4 'Open Sans', arial, sans-serif;
   }
